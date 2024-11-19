@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import styles from './VoteSummary.module.css'
+import styles from './VotesSummary.module.css'
 
 const VoteSummary = ({}) => {
     return (
